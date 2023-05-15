@@ -1,0 +1,80 @@
+.main-container{
+    background-color: rgba(235, 135, 190,0.329);
+    height: 520px;
+    width: 100%;
+}
+.abo{
+    margin-top: 20px;
+    height: 500px;
+    width: 400px;
+    float: left;
+    width: 490px;
+    margin-left: 20px;
+}
+.pro{
+    height: 62px;
+    width: 400px;
+    background-color: rgba(94, 47, 59, 0.89);
+    text-align: center;
+    font-size: 50px;
+    color: blue
+}
+.info{
+    width: 489px;
+}
+.ime{
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 100px;
+    border: 1px solid;
+}
+.qqq{
+    width: 198px;
+    height: 202px;
+    border-radius: 100px;
+}
+.add{
+    height: 00px;
+}
+h3{
+    margin-left: 159;
+   }
+h5{
+    margin-top: -38px;
+    margin-left: 114px;
+}
+.viewpdf{
+    margin-left: 99px;
+    float: left;
+    margin-top: 58px;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 10px;
+    width: 129px;
+    height: 37px;
+    background-color: #81c784;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.dowpdf{
+    margin-top: 80px;
+    border: 1px solid;
+    margin-left: 257px;
+    border-radius: 10px;
+    background-color: rgb(201, 106, 122);
+    width: 129px;
+    height: 37px;
+}
+.abc{
+    width: 855px;
+    height: 638px;
+    margin-left: 100px;
+    margin-left: 491px;
+    float: left;
+    margin-left: -1px;
+    margin-top: 20px; 
+}
